@@ -1,6 +1,6 @@
 {
   "name": "handwritten-signature-vue3",
-  "version": "1.0.6",
+  "version": "1.0.9",
   "description": "vue3手写签名组件",
   "main": "handwritten-signature-vue3.es.js",
   "scripts": {
@@ -8,5 +8,9 @@
   },
   "keywords": ["vue", "vue3", "手写签名"],
   "author": "xintianyou",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xintianyou/handwritten-signature-vue3.git"
+  }
 }
