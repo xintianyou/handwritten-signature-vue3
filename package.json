@@ -1,0 +1,31 @@
+{
+  "name": "handwritten-signature-vue3",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "files": [
+    "dist"
+  ],
+  "main": "./dist/handwritten-signature-vue3.umd.cjs",
+  "module": "./dist/handwritten-signature-vue3.es.js",
+  "exports": {
+    ".": {
+      "import": "./dist/handwritten-signature-vue3.es.js",
+      "require": "./dist/handwritten-signature-vue3.umd.cjs"
+    }
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "handwritten-signature-vue3": "^1.0.7",
+    "smooth-signature": "^1.0.13",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.3.1",
+    "vite": "^4.4.9"
+  }
+}

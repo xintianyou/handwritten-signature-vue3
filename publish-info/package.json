@@ -1,0 +1,12 @@
+{
+  "name": "handwritten-signature-vue3",
+  "version": "1.0.6",
+  "description": "vue3手写签名组件",
+  "main": "handwritten-signature-vue3.es.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["vue", "vue3", "手写签名"],
+  "author": "xintianyou",
+  "license": "ISC"
+}
