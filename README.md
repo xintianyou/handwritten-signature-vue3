@@ -10,5 +10,8 @@
 npm i handwritten-signature-vue3
 ```
 
-### 效果图
+## 原生实现，没有框架限制
+[github](https://github.com/xintianyou/canvas-sign)
+
+## 效果图
 ![](demo.png)
